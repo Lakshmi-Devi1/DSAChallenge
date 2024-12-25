@@ -7,7 +7,6 @@ public class evenorodd{
         }
         else{
             System.out.println("odd");
-        }
-        
+        }   
     }
 }
