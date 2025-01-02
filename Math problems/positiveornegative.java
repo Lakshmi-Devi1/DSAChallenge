@@ -8,6 +8,5 @@ public class positiveornegative{
         else{
             System.out.println("negative number");
         }
-        
     }
 }
